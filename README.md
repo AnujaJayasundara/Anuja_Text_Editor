@@ -1,2 +1,2 @@
-# Anuja_Text_Editor
-This is text editor tool
+Name - J.M.Anuja Ishari
+Student ID - 2023t01864
