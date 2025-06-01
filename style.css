@@ -1,0 +1,37 @@
+body {
+  background-color: #efefb2;
+}
+.container {
+  background-color: #ffffff;
+  width: 600px;
+  padding: 50px 30px;
+  margin: 100px 80px;
+  left: 50%;
+  top: 50%;
+  border-radius: 15px;
+}
+.options {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 25px;
+}
+button {
+  height: 25px;
+  width: 25px;
+  display: grid;
+  place-items: center;
+  border-radius: 3px;
+  border: none;
+  background-color: #ecf0d6;
+  outline: none;
+  color: #4a4903;
+}
+
+#text-input {
+  margin-top: 20px;
+  border: 1px solid #d1f34a;
+  padding: 20px;
+  height: 50vh;
+  border-radius: 4%;
+}
